@@ -17,7 +17,7 @@
   <summary>Table of Contents</summary>
   <ol>
     <li><a href="#team-members">Team Members</a></li>
-    <li><a href="#final-project">Final Project</a></li>
+    <li><a href="#The_Project">The Project</a></li>
       <ul>
         <li><a href="#original-goals">Original Goals</a></li>
           <ul>
