@@ -131,11 +131,11 @@ https://github.com/user-attachments/assets/710a8d51-5a31-4fa2-b96d-086e3f6e10a3
 * [UCSD Robocar Lane Detection](https://gitlab.com/ucsd_robocar2/ucsd_robocar_lane_detection2_pkg)
 * [Donkeycontainer](https://github.com/UCSD-ECEMAE-148/donkeycontainer)
 
-<!-- Badges -->
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
 ### Acknowledgements
 Special Thanks To: Eric Foss, Alexander Haken, Dr. Jack Silberman
+
+<!-- Badges -->
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 
 ## Contact Information
