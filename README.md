@@ -127,7 +127,7 @@ https://github.com/user-attachments/assets/710a8d51-5a31-4fa2-b96d-086e3f6e10a3
 
 
 ### Acknowledgements
-<p align="center"> Special Thanks To: Eric Foss, Alexander Haken, Dr. Jack Silberman
+Special Thanks To: Eric Foss, Alexander Haken, Dr. Jack Silberman
 
 ## Contact Information
 * Kim Garbez - kgarbez@ucsd.edu
