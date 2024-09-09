@@ -5,7 +5,7 @@
 ### <p align="center">Team 6 - Odysseus 
 ### <p align="center">MAE 148 Final Project - SU II 24
 
-*insert image of car*
+![](Car.webp)
 
 ## Table of Contents
 1. Table of Contents
