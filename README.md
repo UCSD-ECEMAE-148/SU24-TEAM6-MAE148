@@ -82,6 +82,10 @@ Jetson Case
 ### Electrical System Diagram
 ![](img/Team_6_Wiring_Diagram.webp)
 
+### Demonstration
+![](img/Car_Demo_2.mp4)
+
+
 ## Contact Information
 * Kim Garbez - kgarbez@ucsd.edu
 * William Harris - wharris@ucsd.edu / williamlh3rd@gmail.com
