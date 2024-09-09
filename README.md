@@ -21,6 +21,7 @@
     <li><a href="#Team-Members">Team Members</a></li>
     <li><a href="#Final-Project">Final Project</a></li>
       <ul>
+        <li><a href="#Software">Software</a></li>
         <li><a href="#What-We-Promised">What We Promised</a></li>
         <li><a href="#Nice-to-Haves">Nice-to-Haves</a></li>
         <li><a href="#What-we-Delivered">What we Delivered</a></li>
