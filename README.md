@@ -15,7 +15,7 @@
 5. Contact Information
 
 ## Team Members
-* Kim Garbez - 
+* Kim Garbez - Mechanical Engineering, BS
 * William Harris -
 * Kenneth Ho - Mechanical Engineering, BS
 * Daniel Weng - Electrical Engineering, BS
