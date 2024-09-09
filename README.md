@@ -54,7 +54,12 @@
 
 <!-- Final Project -->
 ## Final Project
-The goal of this project was to implement a method of color recognition that, upon recognizing a color, would be able to play that color's associated note from a major scale. By implementing this color recognition with a line-following algorithm, we hoped to create a car that would be able to play music based on the colors it saw along a lined track. 
+The goal of this project was to implement a method of color recognition that, upon recognizing a color, would be able to play that color's associated note from a major scale. By implementing this color recognition with a line-following algorithm, we hoped to create a car that would be able to play music based on the colors it saw along a lined track.
+
+### Software Implemented
+* ROS2
+* Embedded Systems
+* DonkeyCar AI
 
 ### What We Promised
 * Line Following via a yellow line
