@@ -16,7 +16,7 @@
 
 ## Team Members
 * Kim Garbez - Mechanical Engineering, BS
-* William Harris -
+* William Harris - Mechanical Engineering, BS
 * Kenneth Ho - Mechanical Engineering, BS
 * Daniel Weng - Electrical Engineering, BS
 
