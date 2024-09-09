@@ -59,6 +59,14 @@ The goal of this project was to implement a method of color recognition that, up
 
 ## Robot Design
 ### Mechanical Designs
+Electronics mounting plate:
+![](img/Plate.png)
+
+Lidar mount:
+![](img/LIDAR.png)
+
+GPS mount:
+![](img/GPS.png)
 
 ### Electrical System Diagram
 ![](img/Team_6_Wiring_Diagram.webp)
