@@ -63,15 +63,15 @@ Electronics mounting plate
 ![](img/Plate.png)
 
 
-Camera mount
+Camera Mount
 ![](img/Camera.webp)
 
 
-Lidar mount
+Lidar Mount
 ![](img/LIDAR.png)
 
 
-GPS mount
+GPS Mount
 ![](img/GPS.png)
 
 
