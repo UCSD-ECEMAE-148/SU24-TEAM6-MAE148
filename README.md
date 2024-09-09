@@ -29,8 +29,15 @@ The goal of this project was to implement a method of color recognition that, up
 * Play associated notes through a speaker integrated with the Jetson Nano
   
 ### Nice-to-Haves
+* Recognize eight colors for the notes of a major scale
+* Navigate via GPS
+* Play songs with different tempos (adjusting the speed of the car)
 
 ### What we Delivered
+* Navigate via line following
+* Recognize and assign 3 colors (RGB) to the first three notes of a major scale
+* Play associated noptes through a speaker integrated with the Jetson
+* Multi-color detection and line following working simultaneously via modifying the Lane_Detection node 
 
 ### Challenges and Issues
 * Concurrent line following around curves while playing notes
