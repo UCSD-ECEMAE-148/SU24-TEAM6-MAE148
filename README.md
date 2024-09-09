@@ -58,13 +58,13 @@
   The goal of this project was to implement a method of color recognition that, upon recognizing a color, would be able to play that color's associated note from a major scale. By implementing this color recognition with a line-following algorithm, we hoped to create a car that would be able to play music based on the colors it saw along a lined track.
 
 ### Software Implemented
-* Embedded Systems
+####* Embedded Systems
 To program the Jetson Nano, we utilized remote SSH access to its embedded Linux system and ran a Docker container preloaded with all required dependencies. This setup ensured compatibility and optimized resource usage. Additionally, we leveraged virtualization tools like VMWare and WSL2 to build, test, and deploy our applications efficiently.
 
-* ROS2
+####* ROS2
 Our development environment was based on a Docker image containing the UCSD Robocar module, running on Ubuntu 20.04. Originally developed by Dominic Nightingale, a UCSD graduate student, this framework supports a variety of sensors and actuators for scaled autonomous vehicles. Using ROS/ROS2, it simplifies control over car-like robots while enabling them to perform autonomous tasks simultaneously.
   
-* DonkeyCar AI
+####* DonkeyCar AI
 For early project deliverables, we trained an autonomous car using DonkeyCar in a simulated environment. By applying deep learning to visual data collected on a virtual track, we prepared the car to race on a remote server. This groundwork helped us transition to training a physical vehicle with computer vision for outdoor racing.
   
 
