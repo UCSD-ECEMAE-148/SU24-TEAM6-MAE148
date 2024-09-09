@@ -57,6 +57,8 @@ The goal of this project was to implement a method of color recognition that, up
 
 ## Demonstrations
 
+
+
 ## Robot Design
 ### Mechanical Designs
 Electronics mounting plate
@@ -81,9 +83,6 @@ Jetson Case
 
 ### Electrical System Diagram
 ![](img/Team_6_Wiring_Diagram.webp)
-
-### Demonstration
-![](img/Car_Demo_2.mp4)
 
 
 ## Contact Information
