@@ -12,12 +12,18 @@
 2. Team Members
 3. The Project
 4. Robot Design
-5. Contact Information
+6. References
+7. Acknowledgemnets
+8. Contact Information
+
 
 ## Team Members
 ![](img/Team.jpg)
-<p align="center"> Kenneth Ho, Kim Garbez, Daniel Weng, William Harris
-<p align="center"> Special Thanks To: Eric Foss, Alexander Haken, Dr. Jack Silberman
+<p align="center"> From Left to Right
+* Kenneth Ho - Mechanical Engineering, BS, Class of 2026
+* Kim Garbez - Mechanical Engineering, BS, Class of 2025
+* Daniel Weng - Mechanical Engineering, BS, Class of 2024
+* William Harris - Mechanical Engineering, BS, Class of 2025
   
 ## The Project
 The goal of this project was to implement a method of color recognition that, upon recognizing a color, would be able to play that color's associated note from a major scale. By implementing this color recognition with a line-following algorithm, we hoped to create a car that would be able to play music based on the colors it saw along a lined track. 
@@ -44,7 +50,7 @@ The goal of this project was to implement a method of color recognition that, up
 * RoboFlow color recognition with GPS navigation
 * Speaker integration to the Jetson (resolved)
 
-### If we had Another Week...
+### Potential Improvements
 * Multithread the lane detection code to:
   * Fix lane detection pausing:
     - Split locate_centroid into image_processing & lane_detection
@@ -85,9 +91,14 @@ https://github.com/user-attachments/assets/710a8d51-5a31-4fa2-b96d-086e3f6e10a3
 ### Electrical System Diagram
 <img width="634" alt="Wiring Diagram" src="https://github.com/dwengxz/SU24-TEAM6-MAE148/blob/792c0eef7e7c57e736fde877688d5b3292c942d8/img/Team_6_Wiring_Diagram.webp">
 
+### References
+
+
+### Acknowledgements
+<p align="center"> Special Thanks To: Eric Foss, Alexander Haken, Dr. Jack Silberman
 
 ## Contact Information
-* Kim Garbez - Mechanical Engineering, BS - kgarbez@ucsd.edu
+* Kim Garbez - kgarbez@ucsd.edu
 * William Harris Mechanical Engineering, BS - wharris@ucsd.edu / williamlh3rd@gmail.com
 * Kenneth Ho Mechanical Engineering, BS - keh009@ucsd.edu / kenneth85451@gmail.com
 * Daniel Weng Electrical Engineering, BS - dweng@ucsd.edu / dwengxz@gmail.com
