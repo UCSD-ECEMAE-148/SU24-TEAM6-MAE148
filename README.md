@@ -4,6 +4,7 @@
 
 ### <p align="center">Team 6 - Odysseus 
 ### <p align="center">MAE 148 Final Project - SU II 24
+<p align="center">Special Thanks to: Eric Foss, Alexander Haken, Dr. Jack Silberman
 
 ![](img/Car.webp)
 
@@ -19,8 +20,6 @@
 * William Harris - Mechanical Engineering, BS
 * Kenneth Ho - Mechanical Engineering, BS
 * Daniel Weng - Electrical Engineering, BS
-
-Special Thanks to: Eric Foss, Alexander Haken, Dr. Jack Silberman
 
 ## The Project
 The goal of this project was to implement a method of color recognition that, upon recognizing a color, would be able to play that color's associated note from a major scale. By implementing this color recognition with a line-following algorithm, we hoped to create a car that would be able to play music based on the colors it saw along a lined track. 
