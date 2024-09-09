@@ -63,7 +63,7 @@ The goal of this project was to implement a method of color recognition that, up
 ### Electrical System Diagram
 
 ## Contact Information
-* Kim Garbez - 
+* Kim Garbez - kgarbez@ucsd.edu
 * William Harris -
 * Kenneth Ho - keh009@ucsd.edu / kenneth85451@gmail.com
 * Daniel Weng - dweng@ucsd.edu / dwengxz@gmail.com
