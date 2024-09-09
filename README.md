@@ -9,7 +9,9 @@
   </a>
 <h2>Team 6 - Odysseus </h2>
 <h3>MAE148 Final Project</h3>
+  
   ![](img/Car.webp)
+  
 </div>
 
 <!-- TABLE OF CONTENTS -->
@@ -18,7 +20,34 @@
   <ol>
     <li><a href="#team-members">Team Members</a></li>
     <li><a href="#The-Project">The Project</a></li>
+      <ul>
+        <li><a href="#original-goals">Original Goals</a></li>
+          <ul>
+            <li><a href="#goals-we-met">Goals We Met</a></li>
+            <li><a href="#our-hopes-and-dreams">Our Hopes and Dreams</a></li>
+              <ul>
+                <li><a href="#stretch-goal-1">Stretch Goal 1</a></li>
+                <li><a href="#stretch-goal-2">Stretch Goal 2</a></li>
+              </ul>
+          </ul>
+        <li><a href="#final-project-documentation">Final Project Documentation</a></li>
+      </ul>
     <li><a href="#robot-design">Robot Design </a></li>
+      <ul>
+        <li><a href="#cad-parts">CAD Parts</a></li>
+          <ul>
+            <li><a href="#final-assembly">Final Assembly</a></li>
+            <li><a href="#custom-designed-parts">Custom Designed Parts</a></li>
+            <li><a href="#open-source-parts">Open Source Parts</a></li>
+          </ul>
+        <li><a href="#electronic-hardware">Electronic Hardware</a></li>
+        <li><a href="#software">Software</a></li>
+          <ul>
+            <li><a href="#embedded-systems">Embedded Systems</a></li>
+            <li><a href="#ros2">ROS2</a></li>
+            <li><a href="#donkeycar-ai">DonkeyCar AI</a></li>
+          </ul>
+      </ul>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
     <li><a href="#authors">Authors</a></li>
     <li><a href="#contact">Contact</a></li>
@@ -40,10 +69,10 @@
 ## Team Members
 ![](img/Team.jpg)
 <p align="center"> From Left to Right
-* Kenneth Ho - Mechanical Engineering, BS, Class of 2026
-* Kim Garbez - Mechanical Engineering, BS, Class of 2025
-* Daniel Weng - Mechanical Engineering, BS, Class of 2024
-* William Harris - Mechanical Engineering, BS, Class of 2025
+  Kenneth Ho - Mechanical Engineering, BS, Class of 2026
+  Kim Garbez - Mechanical Engineering, BS, Class of 2025
+  Daniel Weng - Mechanical Engineering, BS, Class of 2024
+  William Harris - Mechanical Engineering, BS, Class of 2025
   
 ## The Project
 The goal of this project was to implement a method of color recognition that, upon recognizing a color, would be able to play that color's associated note from a major scale. By implementing this color recognition with a line-following algorithm, we hoped to create a car that would be able to play music based on the colors it saw along a lined track. 
