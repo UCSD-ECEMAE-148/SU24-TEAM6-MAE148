@@ -16,10 +16,7 @@
 
 ## Team Members
 ![](img/Team.jpg)
-* Kim Garbez - Mechanical Engineering, BS
-* William Harris - Mechanical Engineering, BS
-* Kenneth Ho - Mechanical Engineering, BS
-* Daniel Weng - Electrical Engineering, BS
+From left to right: Kenneth Ho, Kim Garbez, Daniel Weng, William Harris 
 
 ## The Project
 The goal of this project was to implement a method of color recognition that, upon recognizing a color, would be able to play that color's associated note from a major scale. By implementing this color recognition with a line-following algorithm, we hoped to create a car that would be able to play music based on the colors it saw along a lined track. 
@@ -89,7 +86,7 @@ https://github.com/user-attachments/assets/710a8d51-5a31-4fa2-b96d-086e3f6e10a3
 
 
 ## Contact Information
-* Kim Garbez - kgarbez@ucsd.edu
-* William Harris - wharris@ucsd.edu / williamlh3rd@gmail.com
-* Kenneth Ho - keh009@ucsd.edu / kenneth85451@gmail.com
-* Daniel Weng - dweng@ucsd.edu / dwengxz@gmail.com
+* Kim Garbez - Mechanical Engineering, BS - kgarbez@ucsd.edu
+* William Harris Mechanical Engineering, BS - wharris@ucsd.edu / williamlh3rd@gmail.com
+* Kenneth Ho Mechanical Engineering, BS - keh009@ucsd.edu / kenneth85451@gmail.com
+* Daniel Weng Electrical Engineering, BS - dweng@ucsd.edu / dwengxz@gmail.com
