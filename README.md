@@ -57,12 +57,15 @@ The goal of this project was to implement a method of color recognition that, up
 
 ## Demonstrations
 One of our first times successfully playing notes upon seeing colors
+
 https://github.com/user-attachments/assets/d42f7c1c-3745-4665-9393-c30176c342c2
 
 An early run on the track
+
 https://github.com/user-attachments/assets/10d149b9-d804-42b4-803d-4374953c319b
 
 Successfully playing a song, "Au Clair de la Lune"
+
 https://github.com/user-attachments/assets/710a8d51-5a31-4fa2-b96d-086e3f6e10a3
 
 
