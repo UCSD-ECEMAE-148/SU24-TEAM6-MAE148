@@ -4,7 +4,6 @@
 
 ### <p align="center">Team 6 - Odysseus 
 ### <p align="center">MAE 148 Final Project - SU II 24
-<p align="center">Special Thanks to: Eric Foss, Alexander Haken, Dr. Jack Silberman
 
 ![](img/Car.webp)
 
