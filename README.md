@@ -46,5 +46,5 @@ The goal of this project was to implement a method of color recognition that, up
 ## Contact Information
 * Kim Garbez - 
 * William Harris -
-* Kenneth Ho -
+* Kenneth Ho - keh009@ucsd.edu / kenneth85451@gmail.com
 * Daniel Weng - dweng@ucsd.edu / dwengxz@gmail.com
