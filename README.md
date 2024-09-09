@@ -19,7 +19,7 @@
   <summary>Table of Contents</summary>
   <ol>
     <li><a href="#Team-Members">Team Members</a></li>
-    <li><a href="#The-Project">The Project</a></li>
+    <li><a href="#Final-Project">Final Project</a></li>
       <ul>
         <li><a href="#What-We-Promised">What We Promised</a></li>
         <li><a href="#Nice-to-Haves">Nice-to-Haves</a></li>
@@ -39,15 +39,21 @@
   </ol>
 </details>
 
-
+<!-- TEAM MEMBERS -->
 ## Team Members
 ![](img/Team.jpg)
-* Kenneth Ho - Mechanical Engineering, BS, Class of 2026
-* Kim Garbez - Mechanical Engineering, BS, Class of 2025
-* Daniel Weng - Electrical Engineering, BS, Class of 2024
-* William Harris - Mechanical Engineering, BS, Class of 2025
-  
-## The Project
+<p align = "center"> From Left to Right: Kenneth Ho, Kim Garbez, Daniel Weng, William Harris</p>
+
+
+<h4>Team Member Major and Class </h4>
+<ul>
+  <li>Kenneth Ho - Mechanical Engineering, BS - Class of 2026</li>
+  <li>Kim Garbez - Mechanical Engineering, BS - Class of 2025</li>
+  <li>Daniel Weng - Electrical Engineering, BS - Class of 2024</li>
+  <li>William Harris - Mechanical Engineering, BS - Class of 2025</li>
+
+<!-- Final Project -->
+## Final Project
 The goal of this project was to implement a method of color recognition that, upon recognizing a color, would be able to play that color's associated note from a major scale. By implementing this color recognition with a line-following algorithm, we hoped to create a car that would be able to play music based on the colors it saw along a lined track. 
 
 ### What We Promised
@@ -83,6 +89,7 @@ The goal of this project was to implement a method of color recognition that, up
 * Adjust tempto through car speed rather than color placement
 * Set up our own "musical road" to play multiple songs
 
+<!-- Demonstration -->
 ## Demonstrations
 One of our first times successfully playing notes upon seeing colors
 
@@ -99,6 +106,7 @@ Successfully playing a song, "Au Clair de la Lune"
 https://github.com/user-attachments/assets/710a8d51-5a31-4fa2-b96d-086e3f6e10a3
 
 
+<!-- Robot Design -->
 ## Robot Design
 ### Mechanical Designs
 | Part | CAD Model |
@@ -112,6 +120,7 @@ https://github.com/user-attachments/assets/710a8d51-5a31-4fa2-b96d-086e3f6e10a3
 ### Electrical System Diagram
 <img width="634" alt="Wiring Diagram" src="https://github.com/dwengxz/SU24-TEAM6-MAE148/blob/792c0eef7e7c57e736fde877688d5b3292c942d8/img/Team_6_Wiring_Diagram.webp">
 
+<!-- References, Acknowlegements, Contact Information -->
 ### References
 
 
