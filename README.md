@@ -44,7 +44,7 @@
 ![](img/Team.jpg)
 * Kenneth Ho - Mechanical Engineering, BS, Class of 2026
 * Kim Garbez - Mechanical Engineering, BS, Class of 2025
-* Daniel Weng - Mechanical Engineering, BS, Class of 2024
+* Daniel Weng - Electrical Engineering, BS, Class of 2024
 * William Harris - Mechanical Engineering, BS, Class of 2025
   
 ## The Project
@@ -120,6 +120,6 @@ Special Thanks To: Eric Foss, Alexander Haken, Dr. Jack Silberman
 
 ## Contact Information
 * Kim Garbez - kgarbez@ucsd.edu
-* William Harris Mechanical Engineering, BS - wharris@ucsd.edu / williamlh3rd@gmail.com
-* Kenneth Ho Mechanical Engineering, BS - keh009@ucsd.edu / kenneth85451@gmail.com
-* Daniel Weng Electrical Engineering, BS - dweng@ucsd.edu / dwengxz@gmail.com
+* William Harris - wharris@ucsd.edu / williamlh3rd@gmail.com
+* Kenneth Ho - keh009@ucsd.edu / kenneth85451@gmail.com
+* Daniel Weng - dweng@ucsd.edu / dwengxz@gmail.com
