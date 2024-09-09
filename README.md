@@ -18,39 +18,24 @@
 <details>
   <summary>Table of Contents</summary>
   <ol>
-    <li><a href="#team-members">Team Members</a></li>
+    <li><a href="#Team-Members">Team Members</a></li>
     <li><a href="#The-Project">The Project</a></li>
       <ul>
-        <li><a href="#original-goals">Original Goals</a></li>
-          <ul>
-            <li><a href="#goals-we-met">Goals We Met</a></li>
-            <li><a href="#our-hopes-and-dreams">Our Hopes and Dreams</a></li>
-              <ul>
-                <li><a href="#stretch-goal-1">Stretch Goal 1</a></li>
-                <li><a href="#stretch-goal-2">Stretch Goal 2</a></li>
-              </ul>
-          </ul>
-        <li><a href="#final-project-documentation">Final Project Documentation</a></li>
+        <li><a href="#What-We-Promised">What We Promised</a></li>
+        <li><a href="#Nice-to-Haves">Nice-to-Haves</a></li>
+        <li><a href="#What-we-Delivered">What we Delivered</a></li>
+        <li><a href="#Challenges-and-Issues">Challenges and Issues</a></li>
+        <li><a href="#Potential-Improvements">Potential Improvements</a></li>
       </ul>
-    <li><a href="#robot-design">Robot Design </a></li>
+    <li><a href="#Demonstrations">Demonstrations</a></li>
+    <li><a href="#Robot-Design">Robot Design</a></li>
       <ul>
-        <li><a href="#cad-parts">CAD Parts</a></li>
-          <ul>
-            <li><a href="#final-assembly">Final Assembly</a></li>
-            <li><a href="#custom-designed-parts">Custom Designed Parts</a></li>
-            <li><a href="#open-source-parts">Open Source Parts</a></li>
-          </ul>
-        <li><a href="#electronic-hardware">Electronic Hardware</a></li>
-        <li><a href="#software">Software</a></li>
-          <ul>
-            <li><a href="#embedded-systems">Embedded Systems</a></li>
-            <li><a href="#ros2">ROS2</a></li>
-            <li><a href="#donkeycar-ai">DonkeyCar AI</a></li>
-          </ul>
+        <li><a href="#Mechanical-Designs">Mechanical Designs/a></li>
+        <li><a href="#Electrical-System-Diagram">Electrical System Diagram</a></li>
       </ul>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
-    <li><a href="#authors">Authors</a></li>
-    <li><a href="#contact">Contact</a></li>
+    <li><a href="#References">References</a></li>
+    <li><a href="#Acknowledgements">Acknowledgements</a></li>
+
   </ol>
 </details>
 
@@ -68,11 +53,10 @@
 
 ## Team Members
 ![](img/Team.jpg)
-<p align="center"> From Left to Right
-  Kenneth Ho - Mechanical Engineering, BS, Class of 2026
-  Kim Garbez - Mechanical Engineering, BS, Class of 2025
-  Daniel Weng - Mechanical Engineering, BS, Class of 2024
-  William Harris - Mechanical Engineering, BS, Class of 2025
+* Kenneth Ho - Mechanical Engineering, BS, Class of 2026
+* Kim Garbez - Mechanical Engineering, BS, Class of 2025
+* Daniel Weng - Mechanical Engineering, BS, Class of 2024
+* William Harris - Mechanical Engineering, BS, Class of 2025
   
 ## The Project
 The goal of this project was to implement a method of color recognition that, upon recognizing a color, would be able to play that color's associated note from a major scale. By implementing this color recognition with a line-following algorithm, we hoped to create a car that would be able to play music based on the colors it saw along a lined track. 
@@ -135,7 +119,6 @@ https://github.com/user-attachments/assets/710a8d51-5a31-4fa2-b96d-086e3f6e10a3
 | Lidar Mount, by Kim Garbez | <img width="634" alt="Lidar Mount" src="https://github.com/dwengxz/SU24-TEAM6-MAE148/blob/792c0eef7e7c57e736fde877688d5b3292c942d8/img/LIDAR.png"> |
 | GPS Mount, by Kim Garbez | <img width="634" alt="GPS Mount" src="https://github.com/dwengxz/SU24-TEAM6-MAE148/blob/792c0eef7e7c57e736fde877688d5b3292c942d8/img/GPS.png"> |
 | Jetson Case, Retrieved from: https://www.thingiverse.com/thing:3532828/files | <img width="634" alt="Jetson Case" src="https://github.com/dwengxz/SU24-TEAM6-MAE148/blob/792c0eef7e7c57e736fde877688d5b3292c942d8/img/Jetson_Case.jpg"> |
-
 
 ### Electrical System Diagram
 <img width="634" alt="Wiring Diagram" src="https://github.com/dwengxz/SU24-TEAM6-MAE148/blob/792c0eef7e7c57e736fde877688d5b3292c942d8/img/Team_6_Wiring_Diagram.webp">
