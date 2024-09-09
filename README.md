@@ -40,17 +40,6 @@
 </details>
 
 
-
-## Table of Contents
-1. Table of Contents
-2. Team Members
-3. The Project
-4. Robot Design
-6. References
-7. Acknowledgemnets
-8. Contact Information
-
-
 ## Team Members
 ![](img/Team.jpg)
 * Kenneth Ho - Mechanical Engineering, BS, Class of 2026
