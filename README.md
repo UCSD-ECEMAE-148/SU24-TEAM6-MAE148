@@ -46,7 +46,7 @@ The goal of this project was to implement a method of color recognition that, up
 * Speaker integration to the Jetson (resolved)
 
 ### If we had Another Week...
-* Multithread the lane detection code to
+* Multithread the lane detection code to:
   * Fix lane detection pausing:
     - Split locate_centroid into image_processing & lane_detection
     - Run these two methods concurrently
