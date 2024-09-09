@@ -61,6 +61,7 @@ The goal of this project was to implement a method of color recognition that, up
 ### Mechanical Designs
 
 ### Electrical System Diagram
+![](img/Team_6_Wiring_Diagram.webp)
 
 ## Contact Information
 * Kim Garbez - kgarbez@ucsd.edu
