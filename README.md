@@ -15,6 +15,7 @@
 5. Contact Information
 
 ## Team Members
+![](img/Team.jpg)
 * Kim Garbez - Mechanical Engineering, BS
 * William Harris - Mechanical Engineering, BS
 * Kenneth Ho - Mechanical Engineering, BS
@@ -88,7 +89,6 @@ https://github.com/user-attachments/assets/710a8d51-5a31-4fa2-b96d-086e3f6e10a3
 
 
 ## Contact Information
-![](img/Team.jpg)
 * Kim Garbez - kgarbez@ucsd.edu
 * William Harris - wharris@ucsd.edu / williamlh3rd@gmail.com
 * Kenneth Ho - keh009@ucsd.edu / kenneth85451@gmail.com
