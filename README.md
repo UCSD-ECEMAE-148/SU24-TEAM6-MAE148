@@ -6,7 +6,7 @@
 <br />
 <div align="center">
   <a href="https://jacobsschool.ucsd.edu/">
-    <img src="https://github.com/dwengxz/SU24-TEAM6-MAE148/blob/d8df4aa599e8800ce6632881d2a99c795d335105/img/UCSDLogo_JSOE_BlueGold_Print.jpg" alt="Logo" width="600">
+    <img src="https://github.com/dwengxz/SU24-TEAM6-MAE148/blob/d8df4aa599e8800ce6632881d2a99c795d335105/img/UCSDLogo_JSOE_BlueGold_Print.jpg" alt="Logo" width="800">
   </a>
 <h2>Team 6 - Odysseus </h2>
 <h3>MAE148 Final Project</h3>
