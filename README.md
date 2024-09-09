@@ -1,11 +1,19 @@
-# <p align="center">Music Production via Color Recognition 
+<div id="top"></div>
 
-![](img/UCSDLogo_JSOE_BlueGold_Print.jpg)
+<h1 align="center">Music Production via Color Recognition </h1>
 
-### <p align="center">Team 6 - Odysseus 
-### <p align="center">MAE 148 Final Project - SU II 24
+<!-- PROJECT LOGO -->
+<br />
+<div align="center">
+  <a href="https://jacobsschool.ucsd.edu/">
+    <img src="https://github.com/dwengxz/SU24-TEAM6-MAE148/blob/d8df4aa599e8800ce6632881d2a99c795d335105/img/UCSDLogo_JSOE_BlueGold_Print.jpg" alt="Logo" width="400" height="100">
+  </a>
+<h2>Team 6 - Odysseus </h2>
+<h3>MAE148 Final Project</h3>
 
-![](img/Car.webp)
+  ![](img/Car.webp)
+
+</div>
 
 ## Table of Contents
 1. Table of Contents
