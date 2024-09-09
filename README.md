@@ -36,7 +36,7 @@ The goal of this project was to implement a method of color recognition that, up
 ### What we Delivered
 * Navigate via line following
 * Recognize and assign 3 colors (RGB) to the first three notes of a major scale
-* Play associated noptes through a speaker integrated with the Jetson
+* Play associated notes through a speaker integrated with the Jetson
 * Multi-color detection and line following working simultaneously via modifying the Lane_Detection node 
 
 ### Challenges and Issues
@@ -73,6 +73,10 @@ Lidar Mount
 
 GPS Mount
 ![](img/GPS.png)
+
+
+Jetson Case
+![](img/Jetson_Case.jpg)
 
 
 ### Electrical System Diagram
