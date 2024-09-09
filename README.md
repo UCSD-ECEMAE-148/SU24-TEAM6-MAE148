@@ -76,42 +76,14 @@ https://github.com/user-attachments/assets/710a8d51-5a31-4fa2-b96d-086e3f6e10a3
 | Part | CAD Model |
 |------|--------------|
 | Electronics Mounting Plate, by Kim Garbez | <img width="634" alt="Electronics Plate" src="https://github.com/dwengxz/SU24-TEAM6-MAE148/blob/3689840ba557e5019b51dbe9dce521f3714cee7c/img/Plate.png"> |
-| Camera Mount, by William Harris | <img width="634" alt="Electronics Plate" src="[https://github.com/dwengxz/SU24-TEAM6-MAE148/blob/3689840ba557e5019b51dbe9dce521f3714cee7c/img/Plate.png](https://github.com/dwengxz/SU24-TEAM6-MAE148/blob/0b9472ba89b5fc16502120e76921a1c625ecc632/img/Camera.webp)"> |
-
-
-![](https://github.com/dwengxz/SU24-TEAM6-MAE148/blob/3689840ba557e5019b51dbe9dce521f3714cee7c/img/Plate.png| width=680) |
-
-| Lidar Mount, by Kim Garbez | ![](img/LIDAR.png | width=680) |
-| GPS Mount, by Kim Garbez | ![](img/GPS.png | width=680) |
-| Jetson Case, Retrieved from: https://www.thingiverse.com/thing:3532828/files | ![](img/Jetson_Case.jpg | width=680) |
-
-
-![](https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png | width=100)
-
-
-Electronics mounting plate
-![](img/Plate.png)
-
-
-Camera Mount
-![](img/Camera.webp)
-
-
-Lidar Mount
-![](img/LIDAR.png)
-
-
-GPS Mount
-![](img/GPS.png)
-
-
-Jetson Case
-Retrieved from: https://www.thingiverse.com/thing:3532828/files
-![](img/Jetson_Case.jpg)
-
-
+| Camera Mount, by William Harris | <img width="634" alt="Camera Mount" src="https://github.com/dwengxz/SU24-TEAM6-MAE148/blob/792c0eef7e7c57e736fde877688d5b3292c942d8/img/Camera.webp"> |
+| Lidar Mount, by Kim Garbez | <img width="634" alt="Lidar Mount" src="https://github.com/dwengxz/SU24-TEAM6-MAE148/blob/792c0eef7e7c57e736fde877688d5b3292c942d8/img/LIDAR.png"> |
+| GPS Mount, by Kim Garbez | <img width="634" alt="GPS Mount" src="https://github.com/dwengxz/SU24-TEAM6-MAE148/blob/792c0eef7e7c57e736fde877688d5b3292c942d8/img/GPS.png"> |
+| Jetson Case, Retrieved from: https://www.thingiverse.com/thing:3532828/files | <img width="634" alt="Jetson Case" src="https://github.com/dwengxz/SU24-TEAM6-MAE148/blob/792c0eef7e7c57e736fde877688d5b3292c942d8/img/Jetson_Case.jpg"> |
 
 ### Electrical System Diagram
+<img width="634" alt="Wiring Diagram" src="https://github.com/dwengxz/SU24-TEAM6-MAE148/blob/792c0eef7e7c57e736fde877688d5b3292c942d8/img/Team_6_Wiring_Diagram.webp"> |
+
 ![](img/Team_6_Wiring_Diagram.webp)
 
 
