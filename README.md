@@ -88,6 +88,7 @@ Retrieved from: https://www.thingiverse.com/thing:3532828/files
 
 
 ## Contact Information
+![](img/Team.jpg)
 * Kim Garbez - kgarbez@ucsd.edu
 * William Harris - wharris@ucsd.edu / williamlh3rd@gmail.com
 * Kenneth Ho - keh009@ucsd.edu / kenneth85451@gmail.com
