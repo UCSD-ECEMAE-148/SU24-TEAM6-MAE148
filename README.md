@@ -2,5 +2,5 @@
 
 *INSERT IMAGE*
 
-## Team 6 - Odysseus
-## MAE 148 Final Project - SU II 24
+### Team 6 - Odysseus
+### MAE 148 Final Project - SU II 24
