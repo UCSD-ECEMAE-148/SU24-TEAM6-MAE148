@@ -40,9 +40,9 @@ The goal of this project was to implement a method of color recognition that, up
 
 ### If we had Another Week...
 * Fix lane detection pausing:
-    Split locate_centroid into image_processing & lane_detection
-    Run these two methods concurrently
-    Implemented but untested, unsure if logic for each method works when split
+#^  Split locate_centroid into image_processing & lane_detection
+#^  Run these two methods concurrently
+#^  Implemented but untested, unsure if logic for each method works when split
 * Fix double detection:
     One thread per color
 * Adjust tempto through car speed rather than color placement
