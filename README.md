@@ -134,12 +134,11 @@ https://github.com/user-attachments/assets/710a8d51-5a31-4fa2-b96d-086e3f6e10a3
 ### Acknowledgements
 Special Thanks To: Eric Foss, Alexander Haken, Dr. Jack Silberman
 
-<!-- Badges -->
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
-
 ## Contact Information
 * Kim Garbez - kgarbez@ucsd.edu
 * William Harris - wharris@ucsd.edu / williamlh3rd@gmail.com
 * Kenneth Ho - keh009@ucsd.edu / kenneth85451@gmail.com
 * Daniel Weng - dweng@ucsd.edu / dwengxz@gmail.com
+
+<!-- Badges -->
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
