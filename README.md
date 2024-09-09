@@ -56,11 +56,12 @@ The goal of this project was to implement a method of color recognition that, up
 * Set up our own "musical road" to play multiple songs
 
 ## Demonstrations
-![](Demonstration.mp4)
+https://github.com/user-attachments/assets/710a8d51-5a31-4fa2-b96d-086e3f6e10a3
 
 
 ## Robot Design
 ### Mechanical Designs
+
 Electronics mounting plate
 ![](img/Plate.png)
 
