@@ -78,7 +78,9 @@ GPS Mount
 
 
 Jetson Case
+Retrieved from: https://www.thingiverse.com/thing:3532828/files
 ![](img/Jetson_Case.jpg)
+
 
 
 ### Electrical System Diagram
