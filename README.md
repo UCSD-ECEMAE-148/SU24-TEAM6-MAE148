@@ -47,10 +47,10 @@
 
 <h4>Team Member Major and Class </h4>
 <ul>
-  <li>Kenneth Ho - Mechanical Engineering, BS - Class of 2026</li>
   <li>Kim Garbez - Mechanical Engineering, BS - Class of 2025</li>
-  <li>Daniel Weng - Electrical Engineering, BS - Class of 2024</li>
   <li>William Harris - Mechanical Engineering, BS - Class of 2025</li>
+  <li>Kenneth Ho - Mechanical Engineering, BS - Class of 2026</li>
+  <li>Daniel Weng - Electrical Engineering, BS - Class of 2024</li>
 
 <!-- Final Project -->
 ## Final Project
