@@ -33,8 +33,20 @@ The goal of this project was to implement a method of color recognition that, up
 ### What we Delivered
 
 ### Challenges and Issues
+* Concurrent line following around curves while playing notes
+* Notes occasionally play twice
+* RoboFlow color recognition with GPS navigation
+* Speaker integration to the Jetson (resolved)
 
 ### If we had Another Week...
+* Fix lane detection pausing:
+    Split locate_centroid into image_processing & lane_detection
+    Run these two methods concurrently
+    Implemented but untested, unsure if logic for each method works when split
+* Fix double detection:
+    One thread per color
+* Adjust tempto through car speed rather than color placement
+* Set up our own "musical road" to play multiple songs
 
 ## Demonstrations
 
