@@ -60,9 +60,11 @@ One of our first times successfully playing notes upon seeing colors
 
 https://github.com/user-attachments/assets/d42f7c1c-3745-4665-9393-c30176c342c2
 
+
 An early run on the track
 
 https://github.com/user-attachments/assets/10d149b9-d804-42b4-803d-4374953c319b
+
 
 Successfully playing a song, "Au Clair de la Lune"
 
