@@ -73,6 +73,17 @@ https://github.com/user-attachments/assets/710a8d51-5a31-4fa2-b96d-086e3f6e10a3
 
 ## Robot Design
 ### Mechanical Designs
+| Part | CAD Model |
+|------|--------------|
+| Electronics Mounting Plate, by Kim Garbez | ![](img/Plate.png | width=680) |
+| Camera Mount, by William Harris | ![](img/Camera.webp | width=680) |
+| Lidar Mount, by Kim Garbez | ![](img/LIDAR.png | width=680) |
+| GPS Mount, by Kim Garbez | ![](img/GPS.png | width=680) |
+| Jetson Case, Retrieved from: https://www.thingiverse.com/thing:3532828/files | ![](img/Jetson_Case.jpg | width=680) |
+
+
+
+
 
 Electronics mounting plate
 ![](img/Plate.png)
