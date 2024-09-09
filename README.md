@@ -17,7 +17,7 @@
 ## Team Members
 * Kim Garbez - 
 * William Harris -
-* Kenneth Ho -
+* Kenneth Ho - Mechanical Engineering, BS
 * Daniel Weng - Electrical Engineering, BS
 
 ## The Project
