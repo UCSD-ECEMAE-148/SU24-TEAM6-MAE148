@@ -75,14 +75,15 @@ https://github.com/user-attachments/assets/710a8d51-5a31-4fa2-b96d-086e3f6e10a3
 ### Mechanical Designs
 | Part | CAD Model |
 |------|--------------|
-| Electronics Mounting Plate, by Kim Garbez | ![](img/Plate.png | width=680) |
+
+| Electronics Mounting Plate, by Kim Garbez | ![](https://github.com/dwengxz/SU24-TEAM6-MAE148/blob/3689840ba557e5019b51dbe9dce521f3714cee7c/img/Plate.png| width=680) |
 | Camera Mount, by William Harris | ![](img/Camera.webp | width=680) |
 | Lidar Mount, by Kim Garbez | ![](img/LIDAR.png | width=680) |
 | GPS Mount, by Kim Garbez | ![](img/GPS.png | width=680) |
 | Jetson Case, Retrieved from: https://www.thingiverse.com/thing:3532828/files | ![](img/Jetson_Case.jpg | width=680) |
 
 
-
+![](https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png | width=100)
 
 
 Electronics mounting plate
